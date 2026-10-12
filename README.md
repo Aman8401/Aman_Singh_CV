@@ -258,13 +258,6 @@ Mobile app & website for the **Tribal & Forest Departments of MP**, built for re
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aman8401&bg_color=0B1424&color=C9D1D9&line=13B9FD&point=FFFFFF&area=true&area_color=02569B&hide_border=true" alt="Contribution graph"/>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aman8401/Aman8401/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aman8401/Aman8401/output/github-snake.svg"/>
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Aman8401/Aman8401/output/github-snake-dark.svg"/>
-  </picture>
-</p>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
