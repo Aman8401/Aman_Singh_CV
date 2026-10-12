@@ -1,0 +1,40 @@
+# How to publish your GitHub CV profile
+
+Your profile README shows on the top of your GitHub profile page (github.com/amansp) once it lives in a special repository named exactly like your username.
+
+## 1. Create the profile repository
+1. Sign in to GitHub and open https://github.com/new
+2. Repository name: **amansp** (must match your username exactly)
+3. Choose **Public**
+4. Do **not** tick "Add a README" (we already have one)
+5. Click **Create repository**
+
+## 2. Upload the README
+On the new empty repository page:
+1. Click **uploading an existing file**
+2. Drag in `README.md` from this folder
+3. Click **Commit changes**
+
+Open https://github.com/amansp and the profile appears.
+
+## 3. Turn on the snake animation (optional, 2 minutes)
+The "snake eating your contributions" animation needs a small GitHub Action.
+
+1. In the **amansp** repository, click **Add file → Create new file**
+2. File name: `.github/workflows/snake.yml`
+3. Paste everything from `snake-workflow.yml` (in this folder)
+4. Click **Commit changes**
+5. Go to **Settings → Actions → General → Workflow permissions**, choose **Read and write permissions**, then **Save**
+6. Go to the **Actions** tab → **Generate contribution snake** → **Run workflow**
+
+After about a minute the snake appears at the bottom of your profile and refreshes every day.
+
+## 4. Use a different username?
+If your GitHub username is not `amansp`, open `README.md`, use Find & Replace for `amansp` and replace it with your username (also check the LinkedIn and HackerRank links).
+
+## 5. Share it
+Your shareable CV link is:
+
+**https://github.com/amansp**
+
+Add it to your LinkedIn, email signature and resume.
