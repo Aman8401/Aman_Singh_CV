@@ -75,6 +75,8 @@ class AmanSingh extends MobileEngineer {
 - 📦 Owned modules for **maps, offline architecture, API integration** and field-mobility features
 - 🔁 Worked across the **full SDLC**: requirements → development → release → production support
 - 🤝 Delivered for **Labour, Agriculture (FWAD), Tribal & Forest, Revenue** departments and the **Dept. of Science & Technology (GoI)**
+- 🔑 **Single Sign-On (SSO)** integration with **MP e-KYC** In Multiple Projects
+- 💰 Payment integration with **UniPay(MP)** in **Call Karigar Project**
 
 </td>
 </tr>
