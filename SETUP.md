@@ -9,11 +9,13 @@ Your profile README shows on the top of your GitHub profile page (github.com/Ama
 4. Do **not** tick "Add a README" (we already have one)
 5. Click **Create repository**
 
-## 2. Upload the README
+## 2. Upload the README and the animations
 On the new empty repository page:
 1. Click **uploading an existing file**
-2. Drag in `README.md` from this folder
+2. Drag in **both** `README.md` **and the whole `assets` folder** from this folder (drag the folder itself, so the files stay inside `assets/`)
 3. Click **Commit changes**
+
+The `assets` folder holds the animated header, stats tiles, project cards and "currently building" card. Without it those images show as broken.
 
 Open https://github.com/Aman8401 and the profile appears.
 
@@ -30,7 +32,7 @@ The "snake eating your contributions" animation needs a small GitHub Action.
 After about a minute the snake appears at the bottom of your profile and refreshes every day.
 
 ## 4. Use a different username?
-If your GitHub username is not `Aman8401`, open `README.md`, use Find & Replace for `amansp` and replace it with your username (also check the LinkedIn and HackerRank links).
+LinkedIn and HackerRank links use `amansp`. If those usernames are different, open `README.md` and change them.
 
 ## 5. Share it
 Your shareable CV link is:

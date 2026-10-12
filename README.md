@@ -1,306 +1,261 @@
-<!-- ===================== HEADER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:13B9FD&height=230&section=header&text=Aman%20Singh&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Flutter%20Developer%20%E2%80%A2%20GovTech%20%26%20GIS%20Mobile%20Apps&descAlignY=58&descSize=19" width="100%" alt="Aman Singh"/>
-</p>
+<!-- ===================== ANIMATED HEADER ===================== -->
+<a href="https://github.com/Aman8401">
+  <img src="assets/header.svg" width="100%" alt="Aman Singh · Flutter Developer · GovTech & GIS mobile apps"/>
+</a>
 
 <p align="center">
-  <a href="https://github.com/Aman8401">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=13B9FD&center=true&vCenter=true&multiline=false&width=760&height=45&lines=Associate+Engineer+(Mobile+App)+%40+MPSeDC;Building+citizen-scale+apps+for+Govt.+of+Madhya+Pradesh;Flutter+%E2%80%A2+Dart+%E2%80%A2+Bloc%2FCubit+%E2%80%A2+Vue+3+%E2%80%A2+GIS;Offline-first+%E2%80%A2+Maps+%E2%80%A2+Clean+Architecture;Open+to+exciting+mobile+engineering+roles+%F0%9F%9A%80" alt="Typing intro"/>
-  </a>
+  <a href="mailto:pariharaman2001@gmail.com"><img src="https://img.shields.io/badge/Email-pariharaman2001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/amansp"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.hackerrank.com/profile/amansp"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Aman8401&label=Profile%20views&color=0175C2&style=for-the-badge" alt="Profile views"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍%20Bhopal,%20Madhya%20Pradesh-02569B?style=for-the-badge" alt="Location"/>
-  <img src="https://img.shields.io/badge/💼%202.5%2B%20Years%20Experience-0175C2?style=for-the-badge" alt="Experience"/>
-  <img src="https://img.shields.io/badge/🏛️%20GovTech%20%7C%20MPSeDC-13B9FD?style=for-the-badge" alt="GovTech"/>
-</p>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<p align="center">
-  <a href="mailto:pariharaman2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-pariharaman2001-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/amansp"><img src="https://img.shields.io/badge/LinkedIn-amansp-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.hackerrank.com/profile/amansp"><img src="https://img.shields.io/badge/HackerRank-amansp-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-  <a href="https://github.com/Aman8401"><img src="https://img.shields.io/badge/GitHub-Aman8401-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Aman8401&label=Profile%20views&color=0175C2&style=flat-square" alt="Profile views"/>
-</p>
+## 👋 About Me
 
----
+<img align="right" width="46%" src="assets/now.svg" alt="What I'm working on now"/>
 
-## 👨‍💻 About Me
+I'm a **Flutter developer** at **MPSeDC** (MP State Electronics Development Corporation), working with the **Centre of Excellence & GIS team** in Bhopal.
+
+I build mobile and web apps that real people use every day: **daily-wage workers, farmers, patwaris, forest officials and citizens** across Madhya Pradesh and India.
+
+**What I'm good at**
+
+- 📱 **Flutter apps** from idea to Play Store, Android · iOS · Web
+- 🗺️ **Maps & GIS**: ArcGIS, Leaflet, OpenStreetMap, KML, high-precision GPS
+- 📴 **Offline-first** apps for field work with weak or no internet
+- 🏗️ **Clean architecture**: MVVM, Bloc/Cubit, Provider, feature-first, SOLID
+- 🌐 **Bilingual apps**, full English & हिंदी support
+
+📍 Bhopal, India &nbsp;·&nbsp; 🎓 B.Tech IT, UIT-BU &nbsp;·&nbsp; 💬 English, हिंदी
+
+<details>
+<summary>👀 <b>Developer version: me, written in Dart</b></summary>
+<br/>
 
 ```dart
 class AmanSingh extends MobileEngineer {
-  final role        = 'Associate Engineer (Mobile App)';
-  final company     = 'MP State Electronics Development Corporation (MPSeDC)';
-  final team        = 'Centre of Excellence (CoE) & GIS Team';
-  final since       = DateTime(2024, 2);
-  final basedIn     = 'Bhopal, Madhya Pradesh 🇮🇳';
-
-  final speciality  = [
-    'Flutter apps used by citizens, field officers & government departments',
-    'GIS & maps: ArcGIS, Leaflet, OpenStreetMap, KML, high-precision GPS',
-    'Offline-first sync for field work with weak or no connectivity',
-    'Clean, scalable architecture: MVVM, Bloc/Cubit, feature-first, SOLID',
-  ];
-
-  final languages   = ['English', 'हिंदी']; // and every app I ship supports both 😉
+  final role       = 'Associate Engineer (Mobile App)';
+  final company    = 'MPSeDC, Govt. of Madhya Pradesh';
+  final since      = DateTime(2024, 2);
+  final stack      = ['Flutter', 'Dart', 'Bloc/Cubit', 'Vue 3', 'GIS'];
+  final languages  = ['English', 'हिंदी'];
 
   @override
   String get motto => 'Readable before clever. Ship it, then make it better.';
 }
 ```
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><h2>8+</h2><sub>Government apps<br/>built & shipped</sub></td>
-    <td align="center" width="25%"><h2>2.5+</h2><sub>Years building<br/>production apps</sub></td>
-    <td align="center" width="25%"><h2>29 + 2</h2><sub>State logins handled<br/>in Naksha (Govt. of India)</sub></td>
-    <td align="center" width="25%"><h2>3</h2><sub>Platforms shipped:<br/>Android · iOS · Web</sub></td>
-  </tr>
-</table>
+</details>
 
----
+<br clear="right"/>
+
+<p align="center">
+  <img src="assets/stats.svg" width="100%" alt="8+ government apps · 2.5+ years · 29 + 2 state logins · 3 platforms"/>
+</p>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 💼 Experience
 
-<img align="right" width="90" src="https://img.icons8.com/fluency/96/smartphone-tablet.png" alt="Mobile"/>
-
-### 🏛️ Associate Engineer (Mobile App) — MPSeDC
-**MP State Electronics Development Corporation Ltd.** · Bhopal · *Feb 2024 – Present*
-
-- 🧭 Work with the **MPSeDC Centre of Excellence (CoE) & GIS Team** on state and national e-governance platforms.
-- 🗺️ Engineered **scalable, GIS-enabled mobile platforms** for government digital infrastructure.
-- 📦 Owned modules across **mapping, offline architecture, API integration** and field-mobility solutions.
-- 🔁 Contributed across the **full SDLC**, from requirement analysis to production support of live apps.
-- 🤝 Delivered for departments including **Labour, Agriculture (FWAD), Tribal & Forest, Revenue, AYUSH/Yoga** and the **Dept. of Science & Technology (GoI)**.
-
----
-
-## 🚀 Featured Projects
-
-> All projects below are built for the **Government of Madhya Pradesh / Government of India** through **MPSeDC**. Source code is government-owned, so these are case studies rather than public repos.
-
 <table>
 <tr>
-<td width="50%" valign="top">
-
-<h3>🛠️ Call Karigar</h3>
-<img src="https://img.shields.io/badge/Status-Active%20Development-13B9FD?style=flat-square"/> <img src="https://img.shields.io/badge/Platform-Shramana%20(MP)-02569B?style=flat-square"/>
-<p>A mobile app that connects customers with skilled local workers (<b>karigars</b>) such as electricians, plumbers and carpenters. Runs on the <a href="https://shramana.mp.gov.in">Shramana platform</a>.</p>
-<p>
-👤 <b>Customer:</b> find a service, book a worker, track the job, manage saved addresses<br/>
-🔧 <b>Karigar:</b> register skills & categories, handle job requests, manage profile & wallet
-</p>
-<p>✨ Phone sign-in · guest mode · job booking & status tracking · wallet & payments · push notifications · location & addresses · full English/हिंदी</p>
-<p>🧹 <i>Current focus: refactoring for cleaner, easier-to-maintain code.</i></p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Bloc%2FCubit-7C4DFF?style=flat-square&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Dio-0175C2?style=flat-square"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-
+<td width="90" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/smartphone-tablet.png" width="64" alt="Mobile"/>
 </td>
-<td width="50%" valign="top">
+<td valign="top">
 
-<h3>🧱 Digital Labour Chowk (DLC – Shree)</h3>
-<img src="https://img.shields.io/badge/Status-Live%20in%20Production-2EA043?style=flat-square"/> <img src="https://img.shields.io/badge/v1.0.3-Android%20·%20iOS%20·%20Web-02569B?style=flat-square"/>
-<p>Takes the traditional <b>labour chowk</b>, the street corner where daily-wage workers wait to be hired, and puts it on people's phones. Employers find masons, painters, plumbers and helpers <b>by skill and location</b>. Runs on the <a href="https://shree.mp.gov.in">Shree portal</a>.</p>
-<p>✨ Map-based worker search (Leaflet + OpenStreetMap) · job posting · GPS-based worker–employer matching · employer help & support</p>
-<p>🛡️ <i>Live app: every change is checked across the codebase, kept dependency-light and shipped with a rollback path.</i></p>
-<img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Vuetify%203-1867C0?style=flat-square&logo=vuetify&logoColor=white"/> <img src="https://img.shields.io/badge/Pinia-F7D336?style=flat-square&logoColor=black"/> <img src="https://img.shields.io/badge/Capacitor%207-119EFF?style=flat-square&logo=capacitor&logoColor=white"/> <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+### Associate Engineer (Mobile App)
+**MP State Electronics Development Corporation Ltd. (MPSeDC)** · Bhopal
+<img src="https://img.shields.io/badge/Feb%202024%20–%20Present-13B9FD?style=flat-square" alt="Feb 2024 – Present"/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>👷 SHRAM Worker App</h3>
-<img src="https://img.shields.io/badge/Client-MP%20Labour%20Department-02569B?style=flat-square"/> <img src="https://img.shields.io/badge/18%20Screens-MVVM-13B9FD?style=flat-square"/>
-<p>A Flutter app for workers under the <b>Madhya Pradesh Labour Department</b>, covering registration, attendance and wages end to end.</p>
-<p>
-🔐 Login with <b>Samagra ID + OTP</b> and auto-fetched profile<br/>
-📝 5-step employee registration (Proforma-4), nomination (Proforma-7) & certificate<br/>
-📸 Attendance check-in/out with <b>selfie + GPS</b>, office tour / OD<br/>
-💰 Wage master, wage register (Proforma-1) & wage slips (Proforma-5)<br/>
-📢 Employer linking, notice board, profile, settings & support
-</p>
-<p>🏗️ Strict <b>MVVM</b> (View → ViewModel → Repository → Service → Model), Provider for UI state, Cubit for network state, centralised errors, offline detection, dark mode, English/हिंदी.</p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Provider-0175C2?style=flat-square"/> <img src="https://img.shields.io/badge/Cubit-7C4DFF?style=flat-square"/> <img src="https://img.shields.io/badge/Dio-0175C2?style=flat-square"/> <img src="https://img.shields.io/badge/flutter__map-199900?style=flat-square&logo=openstreetmap&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🧘 YES – Yoga Essential & Suryanamaskar</h3>
-<img src="https://img.shields.io/badge/Platform-Shree%20(MP)-02569B?style=flat-square"/> <img src="https://img.shields.io/badge/3%20Roles-Participant%20·%20Instructor%20·%20Admin-13B9FD?style=flat-square"/>
-<p>A complete platform to <b>promote yoga practice</b> and manage yoga sessions across the state.</p>
-<p>
-🙋 <b>Participants:</b> register with health info, join instructor-led groups, see upcoming / attended / missed sessions in a calendar<br/>
-🧑‍🏫 <b>Instructors:</b> create groups, schedule sessions with location & timing, generate <b>QR codes for attendance</b>, manage participants<br/>
-🛡️ <b>Admins:</b> approve instructors, monitor groups & locations, review health reports, track attendance
-</p>
-<p>✨ Secure QR-based attendance · built-in validations & controlled workflows for reliable data</p>
-<img src="https://img.shields.io/badge/QR%20Attendance-000000?style=flat-square&logo=qrcode&logoColor=white"/> <img src="https://img.shields.io/badge/Calendar%20Tracking-0175C2?style=flat-square"/> <img src="https://img.shields.io/badge/Role--based%20Access-7C4DFF?style=flat-square"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🌾 Crop Loss App</h3>
-<img src="https://img.shields.io/badge/Programme-MP%20Agri--GIS-2EA043?style=flat-square"/> <img src="https://img.shields.io/badge/Users-Patwaris%20%26%20Field%20Staff-02569B?style=flat-square"/>
-<p>Lets <b>patwaris and field users</b> report crop damage directly from the field, with photo and GPS proof from the spot.</p>
-<p>
-🔐 OTP-only login (no passwords) & self-registration by role, district, tehsil, halka and village<br/>
-📍 Record crop-loss events with location, date, loss type, photo & GPS coordinates<br/>
-📊 Event list + dashboard of counts by district → tehsil → halka → village<br/>
-🌐 Hindi (default) & English
-</p>
-<p>🔄 <i>Migrated from the legacy WCF service to a new Web API.</i></p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/.NET%20Web%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/GPS%20%2B%20Geo--tagging-199900?style=flat-square"/> <img src="https://img.shields.io/badge/OTP%20Auth-0175C2?style=flat-square"/>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🚜 e-Unnati (Agri-GIS)</h3>
-<img src="https://img.shields.io/badge/Client-FWAD,%20Govt.%20of%20MP-2EA043?style=flat-square"/> <img src="https://img.shields.io/badge/Domain-Agriculture%20GIS-02569B?style=flat-square"/>
-<p>Built for the <b>Farmer Welfare and Agriculture Development Department (FWAD)</b>, which aims to raise farmers' incomes across Madhya Pradesh and help reach national food self-sufficiency.</p>
-<p>🌱 Puts farmers at the centre, supporting the department's focus on <b>advanced farming technology</b>, <b>sustainable resource use</b> and <b>risk management</b> through GIS-enabled digital tools.</p>
-<img src="https://img.shields.io/badge/Agri--GIS-2EA043?style=flat-square"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🗺️ NAKSHA</h3>
-<img src="https://img.shields.io/badge/Client-Govt.%20of%20India%20(DST)-FF9933?style=flat-square"/> <img src="https://img.shields.io/badge/Mobile%20%2B%20Web-02569B?style=flat-square"/>
-<p>Mobile app for <b>urban land-record digitisation</b>.</p>
-<p>
-🔑 Multi-state auth & business logic for <b>29 states + 2 logins</b><br/>
-✂️ ArcGIS geospatial workflows: parcel split / merge / delete<br/>
-🛰️ Integrated <b>external rover hardware</b> for high-precision GPS capture<br/>
-🧩 Scalable Android modules & API integrations
-</p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white"/> <img src="https://img.shields.io/badge/.NET%20APIs-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🌳 MPFRA (Van Adhikar)</h3>
-<img src="https://img.shields.io/badge/Client-Tribal%20%26%20Forest%20Dept,%20MP-2EA043?style=flat-square"/> <img src="https://img.shields.io/badge/Offline--first-13B9FD?style=flat-square"/>
-<p>Mobile app & website for forest-rights field work in remote areas.</p>
-<p>
-📴 Offline-capable data sync & offline GIS workflows<br/>
-🧭 Forest-zone traversal to capture, view & validate data across range, beat, compartment, sub-division & division boundaries<br/>
-🗂️ Forest boundary APIs, KML route support & geotagged images → PDF
-</p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/.NET%20APIs-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/KML-199900?style=flat-square"/> <img src="https://img.shields.io/badge/Offline%20Sync-0175C2?style=flat-square"/>
+- 🧭 Part of the **Centre of Excellence (CoE) & GIS team**, building state and national e-governance apps
+- 🗺️ Built **scalable, GIS-enabled mobile platforms** for government digital infrastructure
+- 📦 Owned modules for **maps, offline architecture, API integration** and field-mobility features
+- 🔁 Worked across the **full SDLC**: requirements → development → release → production support
+- 🤝 Delivered for **Labour, Agriculture (FWAD), Tribal & Forest, Revenue** departments and the **Dept. of Science & Technology (GoI)**
 
 </td>
 </tr>
 </table>
 
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <img src="assets/projects.svg" width="100%" alt="Call Karigar, Digital Labour Chowk, SHRAM Worker App, YES Yoga App, Crop Loss, e-Unnati, NAKSHA, MPFRA Van Adhikar"/>
+</p>
+
+<p align="center"><sub>All apps are built for the <b>Government of Madhya Pradesh / Government of India</b> through <b>MPSeDC</b>. The code is government-owned, so these are case studies. <b>Tap a project below to read more.</b></sub></p>
+
 <details>
-<summary><b>➕ Also contributed to</b></summary>
+<summary>🛠️ <b>Call Karigar</b> · book skilled local workers &nbsp;<img src="https://img.shields.io/badge/ACTIVE-13B9FD?style=flat-square" alt="Active"/></summary>
 <br/>
 
-- **CHAKSHU Portal / NMMSA**, MPSeDC CoE & GIS team
+A mobile app that connects customers with skilled local workers (**karigars**) such as electricians, plumbers and carpenters. Built for the **Government of Madhya Pradesh** through MPSeDC, running on the [Shramana platform](https://shramana.mp.gov.in).
+
+| 👤 Customer | 🔧 Karigar (Worker) |
+|---|---|
+| Find a service, book a worker | Register skills & service categories |
+| Track the job status | Receive & handle job requests |
+| Manage saved addresses | Manage profile & wallet |
+
+**Key features:** phone sign-in · guest mode · service categories · job booking & tracking · wallet & payments · push notifications · location & addresses · full English/हिंदी
+
+**Architecture:** feature-first modules (auth, home, job, service, profile, wallets, notification, address) with a shared core layer. **Current focus:** refactoring for a cleaner, easier-to-maintain codebase.
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Bloc%2FCubit-7C4DFF?style=flat-square"/> <img src="https://img.shields.io/badge/Dio-0175C2?style=flat-square"/> <img src="https://img.shields.io/badge/Firebase%20FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 
 </details>
 
----
+<details>
+<summary>🧱 <b>Digital Labour Chowk (DLC – Shree)</b> · labour chowk on your phone &nbsp;<img src="https://img.shields.io/badge/LIVE-2EA043?style=flat-square" alt="Live"/></summary>
+<br/>
+
+In most towns, daily-wage workers (masons, painters, plumbers, helpers) gather at one street corner every morning hoping to be hired, and many go home without work. This app puts that **labour chowk on people's phones**: employers find workers **by skill and location** and post jobs, and workers get found by employers nearby. Run by the Government of MP through the [Shree portal](https://shree.mp.gov.in).
+
+- 🗺️ Map-based worker search with **Leaflet + OpenStreetMap**
+- 📝 Job posting for individuals, contractors and businesses
+- 📍 Worker–employer matching using phone GPS
+- 💬 Help & support screens for employers
+- 📱 **v1.0.3 live in production** on Android, iOS and Web, with separate staging and production builds
+
+Because it's live, every change is checked across the whole codebase, kept dependency-light and shipped with a rollback path.
+
+<img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Vuetify%203-1867C0?style=flat-square&logo=vuetify&logoColor=white"/> <img src="https://img.shields.io/badge/Pinia-F7D336?style=flat-square"/> <img src="https://img.shields.io/badge/Capacitor%207-119EFF?style=flat-square&logo=capacitor&logoColor=white"/> <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square"/>
+
+</details>
+
+<details>
+<summary>👷 <b>SHRAM Worker App</b> · MP Labour Department &nbsp;<img src="https://img.shields.io/badge/IN%20DEV-7C4DFF?style=flat-square" alt="In development"/></summary>
+<br/>
+
+A Flutter app for workers under the **Madhya Pradesh Labour Department**, covering registration, attendance and wages end to end across **18 screens**.
+
+- 🔐 Login with **Samagra ID + OTP**, with auto-fetched profile
+- 📝 5-step employee registration (Proforma-4), nomination (Proforma-7) & nomination certificate
+- 📸 Attendance check-in/out with **selfie + GPS**, plus office tour / OD
+- 💰 Wage master, wage register (Proforma-1) & wage slips (Proforma-5)
+- 📢 Employer linking, notice board, profile, settings & support
+
+**Architecture:** strict **MVVM** (View → ViewModel → Repository → Service → Model) · Provider for UI state · Cubit for network state · centralised error handling · offline detection · dark mode · English/हिंदी
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Provider-0175C2?style=flat-square"/> <img src="https://img.shields.io/badge/Cubit-7C4DFF?style=flat-square"/> <img src="https://img.shields.io/badge/Dio-0175C2?style=flat-square"/> <img src="https://img.shields.io/badge/flutter__map-199900?style=flat-square&logo=openstreetmap&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+
+</details>
+
+<details>
+<summary>🧘 <b>YES – Yoga Essential & Suryanamaskar</b> · yoga sessions & QR attendance</summary>
+<br/>
+
+A complete digital platform to **promote yoga practice** and manage yoga sessions.
+
+| 🙋 Participants | 🧑‍🏫 Instructors | 🛡️ Admins |
+|---|---|---|
+| Register with health info | Create & manage yoga groups | Approve & manage instructors |
+| Join instructor-led groups | Schedule sessions with location & time | Monitor groups & locations |
+| Calendar of upcoming / attended / missed sessions | Generate **QR codes for attendance** | Review health reports & attendance |
+
+Built-in validations and controlled workflows keep the data reliable for every role.
+
+</details>
+
+<details>
+<summary>🌾 <b>Crop Loss App</b> · field crop-damage reporting &nbsp;<img src="https://img.shields.io/badge/IN%20DEV-F5A524?style=flat-square" alt="In development"/></summary>
+<br/>
+
+Part of the **MP Government Agri-GIS programme** (MPSeDC). Patwaris and field users report crop damage straight from the field, and **every report carries a photo and GPS proof**.
+
+- 🔐 OTP-only login (no passwords) & self-registration by role, district, tehsil, halka and village
+- 📍 Record crop-loss events with location, date, loss type, photo & GPS coordinates
+- 📊 Event list + dashboard of counts by district → tehsil → halka → village
+- 🌐 Hindi (default) & English
+- 🔄 Migrating from the legacy **WCF service** to a new **Web API**
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/.NET%20Web%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/GPS%20%2B%20Geo--tagging-199900?style=flat-square"/> <img src="https://img.shields.io/badge/OTP%20Auth-0175C2?style=flat-square"/>
+
+</details>
+
+<details>
+<summary>🚜 <b>e-Unnati (Agri-GIS)</b> · Farmer Welfare & Agriculture Dept.</summary>
+<br/>
+
+Built for the **Farmer Welfare and Agriculture Development Department (FWAD)** of the Government of Madhya Pradesh, which aims to raise farmers' incomes and help reach national food self-sufficiency. With farmers at the centre, it supports the department's focus on **advanced farming technology, sustainable resource use and risk management**.
+
+</details>
+
+<details>
+<summary>🗺️ <b>NAKSHA</b> · urban land records, Govt. of India</summary>
+<br/>
+
+Mobile app for **urban land-record digitisation** (Dept. of Science & Technology, GoI).
+
+- 🔑 Multi-state auth & business logic for **29 states + 2 logins**
+- ✂️ ArcGIS workflows: parcel split / merge / delete
+- 🛰️ Integrated **external rover hardware** for high-precision GPS capture
+- 🧩 Scalable Android modules & API integrations
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square"/> <img src="https://img.shields.io/badge/.NET%20APIs-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square"/>
+
+</details>
+
+<details>
+<summary>🌳 <b>MPFRA (Van Adhikar)</b> · forest-rights field survey</summary>
+<br/>
+
+Mobile app & website for the **Tribal & Forest Departments of MP**, built for remote areas.
+
+- 📴 Offline-capable data sync & offline GIS workflows
+- 🧭 Forest-zone traversal to capture, view & validate data across range, beat, compartment, sub-division & division
+- 🗂️ Forest boundary APIs, KML route support & geotagged images → PDF
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/.NET%20APIs-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square"/> <img src="https://img.shields.io/badge/KML-199900?style=flat-square"/> <img src="https://img.shields.io/badge/Offline%20Sync-0175C2?style=flat-square"/>
+
+</details>
+
+<sub>➕ Also contributed to the <b>CHAKSHU Portal / NMMSA</b> with the MPSeDC CoE & GIS team.</sub>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🧰 Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,js,vue,vite,firebase,aws,postgres,dotnet,git,github,androidstudio,vscode,figma&perline=8&theme=dark" alt="Tech stack icons"/>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,js,vue,vite,firebase,aws,postgres,dotnet,git,github,vscode,figma&perline=15&theme=dark" alt="Tech stack icons"/>
   </a>
 </p>
 
-<table align="center">
-<tr><td><b>📱 Mobile</b></td><td>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white"/>
-</td></tr>
-<tr><td><b>🧠 State & Architecture</b></td><td>
-<img src="https://img.shields.io/badge/Bloc%20%2F%20Cubit-7C4DFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Provider-0175C2?style=flat-square"/>
-<img src="https://img.shields.io/badge/MVVM-13B9FD?style=flat-square"/>
-<img src="https://img.shields.io/badge/Clean%20Architecture-2EA043?style=flat-square"/>
-<img src="https://img.shields.io/badge/Feature--first-02569B?style=flat-square"/>
-<img src="https://img.shields.io/badge/SOLID-555555?style=flat-square"/>
-</td></tr>
-<tr><td><b>🌐 Web</b></td><td>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinia-F7D336?style=flat-square&logoColor=black"/>
-</td></tr>
-<tr><td><b>🗺️ GIS & Maps</b></td><td>
-<img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/KML-0175C2?style=flat-square"/>
-<img src="https://img.shields.io/badge/GPS%20%2F%20RTK%20Rover-555555?style=flat-square"/>
-</td></tr>
-<tr><td><b>☁️ Backend & Cloud</b></td><td>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/.NET%20Web%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20%2F%20Dio-0175C2?style=flat-square"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchaindotcom&logoColor=white"/>
-</td></tr>
-</table>
+| | |
+|---|---|
+| 📱 **Mobile** | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white"/> |
+| 🧠 **Architecture** | <img src="https://img.shields.io/badge/Bloc%20%2F%20Cubit-7C4DFF?style=flat-square"/> <img src="https://img.shields.io/badge/Provider-0175C2?style=flat-square"/> <img src="https://img.shields.io/badge/MVVM-13B9FD?style=flat-square"/> <img src="https://img.shields.io/badge/Clean%20Architecture-2EA043?style=flat-square"/> <img src="https://img.shields.io/badge/Feature--first-02569B?style=flat-square"/> <img src="https://img.shields.io/badge/SOLID-555555?style=flat-square"/> |
+| 🌐 **Web** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white"/> <img src="https://img.shields.io/badge/Pinia-F7D336?style=flat-square"/> |
+| 🗺️ **GIS & Maps** | <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square"/> <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white"/> <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white"/> <img src="https://img.shields.io/badge/KML-0175C2?style=flat-square"/> <img src="https://img.shields.io/badge/GPS%20%2F%20RTK%20Rover-555555?style=flat-square"/> |
+| ☁️ **Backend & Cloud** | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/.NET%20Web%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20%2F%20Dio-0175C2?style=flat-square"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square"/> <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square"/> <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square"/> |
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🎓 Education & Achievements
 
-<table>
-<tr>
-<td width="55%" valign="top">
+| 🎓 Education | 🏆 Achievements |
+|---|---|
+| **B.Tech, Information Technology**<br/>UIT-BU (Barkatullah University), Bhopal<br/>2019 – 2023 · **CGPA 7.96** | 🥉 **3rd of 90** in the UIT-BU Techfest coding competition |
+| **Class XII**, MP State Board · 2019 · **69.2%** | 🛠️ **Technical Member**, UIT-BU Multimedia & IoT Club (2022–24) |
+| **Class X**, MP State Board · 2017 · **91.5%** | ☕ **Java Development** course certificate<br/>🏅 University winner in **Cricket, Kabaddi & 100 m race** |
 
-**🎓 B.Tech, Information Technology**
-UIT-BU (University Institute of Technology, Barkatullah University), Bhopal
-*Aug 2019 – Jun 2023* · **CGPA 7.96**
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-**📘 Class XII**, MP State Board · *2019* · **69.2%**
-
-**📗 Class X**, MP State Board · *2017* · **91.5%**
-
-</td>
-<td width="45%" valign="top">
-
-🥉 **3rd of 90** in the coding competition at UIT-BU Techfest
-
-🛠️ **Technical Member**, UIT-BU Multimedia & IoT Club *(2022–2024)*
-
-☕ **Java Development** course certificate
-
-🏆 University winner in **Cricket, Kabaddi & 100 m race**
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aman8401&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=13B9FD&icon_color=13B9FD&text_color=C9D1D9&ring_color=02569B" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman8401&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=13B9FD&text_color=C9D1D9" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aman8401&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0B1424&title_color=13B9FD&icon_color=13B9FD&text_color=C9D1D9&ring_color=02569B" alt="GitHub stats"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=Aman8401&hide_border=true&background=0B1424&ring=13B9FD&fire=13B9FD&currStreakLabel=13B9FD&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aman8401&hide_border=true&background=0D1117&ring=13B9FD&fire=13B9FD&currStreakLabel=13B9FD&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aman8401&bg_color=0D1117&color=C9D1D9&line=13B9FD&point=FFFFFF&area=true&area_color=02569B&hide_border=true" alt="Contribution graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aman8401&bg_color=0B1424&color=C9D1D9&line=13B9FD&point=FFFFFF&area=true&area_color=02569B&hide_border=true" alt="Contribution graph"/>
 </p>
 
 <p align="center">
@@ -311,13 +266,13 @@ UIT-BU (University Institute of Technology, Barkatullah University), Bhopal
   </picture>
 </p>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  I enjoy building apps that real people depend on every day: workers, farmers, field officers and citizens.<br/>
-  <b>Open to mobile / Flutter engineering opportunities and collaborations.</b>
+  I enjoy building apps that people depend on every day.<br/>
+  <b>Open to Flutter / mobile engineering roles and collaborations.</b>
 </p>
 
 <p align="center">
@@ -327,5 +282,5 @@ UIT-BU (University Institute of Technology, Barkatullah University), Bhopal
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13B9FD,50:0175C2,100:02569B&height=120&section=footer&animation=twinkling" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13B9FD,50:0175C2,100:02569B&height=120&section=footer&animation=twinkling" width="100%" alt=""/>
 </p>
